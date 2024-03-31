@@ -1,3 +1,8 @@
+// Copyright 2024 Vladislav Labutin
+
+#ifndef INCLUDE_AUTOMATA_H_
+#define INCLUDE_AUTOMATA_H_
+
 #include <map>
 #include <string>
 #include <iostream>
@@ -24,3 +29,5 @@ class Automata {
     void getMenu();
     STATE getState();
 };
+
+#endif  // INCLUDE_AUTOMATA_H_

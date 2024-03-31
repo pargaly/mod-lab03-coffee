@@ -1,3 +1,5 @@
+// Copyright 2024 Vladislav Labutin
+
 #include <gtest/gtest.h>
 #include "../include/Automata.h"
 

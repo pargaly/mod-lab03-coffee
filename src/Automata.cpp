@@ -1,3 +1,5 @@
+// Copyright 2024 Vladislav Labutin
+
 #include "../include/Automata.h"
 
 Automata::Automata() {
